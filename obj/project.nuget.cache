@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/GYGJIUVoP4kG7oMINk9ZK3b5Upu+eF/3Ea83CT9nI6qjffYYhbNNuQxe+mqHpZNeTJ4NC9mqUP1ud9S0gevOQ==",
+  "dgSpecHash": "SVUZHNqxlCMDS1HfFCwoXSGgmofZ8LTbVXO+ZLSf8vvJj0SlLZtALmskDL/87u7DbTPJniDv5v6IYyo2kGm9bw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\devka\\repoazure\\mywebapp1\\mywebapp1.csproj",
+  "projectFilePath": "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\mywebapp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

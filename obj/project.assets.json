@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devka\\repoazure\\mywebapp1\\mywebapp1.csproj",
+      "projectUniqueName": "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\mywebapp1.csproj",
       "projectName": "mywebapp1",
-      "projectPath": "C:\\Users\\devka\\repoazure\\mywebapp1\\mywebapp1.csproj",
+      "projectPath": "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\mywebapp1.csproj",
       "packagesPath": "C:\\Users\\devka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devka\\repoazure\\mywebapp1\\obj\\",
+      "outputPath": "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devka\\AppData\\Roaming\\NuGet\\NuGet.Config"

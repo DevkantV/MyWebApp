@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\devka\\repoazure\\mywebapp1\\mywebapp1.csproj": {}
+    "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\mywebapp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\devka\\repoazure\\mywebapp1\\mywebapp1.csproj": {
+    "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\mywebapp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\devka\\repoazure\\mywebapp1\\mywebapp1.csproj",
+        "projectUniqueName": "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\mywebapp1.csproj",
         "projectName": "mywebapp1",
-        "projectPath": "c:\\Users\\devka\\repoazure\\mywebapp1\\mywebapp1.csproj",
+        "projectPath": "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\mywebapp1.csproj",
         "packagesPath": "C:\\Users\\devka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\devka\\repoazure\\mywebapp1\\obj\\",
+        "outputPath": "C:\\Users\\devka\\DevOps_AZ_400\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devka\\AppData\\Roaming\\NuGet\\NuGet.Config"
