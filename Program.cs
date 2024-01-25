@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 //My first changes
 //feature/myfeature-1 branch changes.
-//Tags and release notes creation
+//Tags and release notes creation try2
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
